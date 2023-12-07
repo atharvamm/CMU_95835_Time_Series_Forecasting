@@ -1,0 +1,9 @@
+# Project: Stock Price Prediction and Economic Factors Analysis
+
+In this project, I undertook the task of selecting a stock from the S&P 500 and performed a comprehensive analysis utilizing data from three crucial US economic factors: CPI Rate, Personal Consumer Expenditure, and Personal Savings Rate. I carefully justified my selection of these variables, highlighting their significance in predicting stock prices and providing transparent sources for the data.
+
+My investigation delved into a meticulous assessment of the relationships between each economic factor and the chosen stock. I presented my findings and insights with precision, employing a variety of charts and graphs for clear visualization of the correlations.
+
+A key aspect of my project centered around the creation of a univariate forecast to predict the stock price. Utilizing multiple ETS models, I evaluated their performance not only based on the standard RMSE, MAE, and MAPE metrics but also using two additional carefully selected metrics: Mean Squared Error and Weighted Mean Squared Error. In my documentation, I elaborated on the rationale behind choosing these specific metrics and provided detailed insights into which models proved most effective and why.
+
+This project significantly enhanced my analytical skills, providing valuable insights into the intricate relationship between economic factors and stock prices. It showcases my ability to apply diverse forecasting models, demonstrating proficiency in handling a range of metrics, including Mean Squared Error, Mean Absolute Error, Mean Absolute Percentage Error, Weighted Mean Squared Error, and Mean Forecast Error.

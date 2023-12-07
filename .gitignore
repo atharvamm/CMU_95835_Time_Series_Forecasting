@@ -1,0 +1,9 @@
+
+
+# Directories
+**/project/
+**/.obsidian/
+**/.DS_Store/
+
+# Files
+*.csv
