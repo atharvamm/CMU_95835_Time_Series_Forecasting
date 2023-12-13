@@ -4,7 +4,7 @@ During this project, I delved into extensive data on electricity prices, consump
 
 ## Data Utilization
 
-The dataset provided comprehensive information on electricity-related metrics, enabling me to employ sophisticated forecasting models. I harnessed the power of ETS (Error, Trend, Seasonality), ARIMA (AutoRegressive Integrated Moving Average), and [LTSF - Linear/DLinear/NLinear](https://arxiv.org/pdf/2205.13504.pdf) Models to gain insights into the future trends of electricity prices, consumption, and production.
+The dataset provided comprehensive information on electricity-related metrics, enabling me to employ sophisticated forecasting models. I harnessed the power of ETS (Error, Trend, Seasonality), ARIMA (AutoRegressive Integrated Moving Average),[LTSF - Linear/DLinear/NLinear](https://arxiv.org/pdf/2205.13504.pdf) Models, [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html), [XGBoost Regressor](https://xgboost.readthedocs.io/en/stable/) and [FB Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), to gain insights into the future trends of electricity prices, consumption, and production.
 
 ## Motivating Prosumer Behavior
 
